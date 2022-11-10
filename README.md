@@ -1,7 +1,6 @@
-# sample-nodejs-upload-aws-s3-bucket
+#Uploading-files-to-AWS-S3-using-Nodejs
 
-sample node js code for upload objects to AWS s3 bucket using iam user credential 
-
+Uploading-files-to-AWS-S3-using-Nodejs
 ---
 ## Requirements
 
